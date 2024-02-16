@@ -8,10 +8,10 @@ Shield Insurance Company aims to conduct a comprehensive analysis of customer gr
 - **BI Tool:** Power BI
 
 ### Data Model:
-- 2023-06-13T17_42_40: General View
-- 2023-06-13T21_25_43: Sales Mode Analysis
-- 2023-06-13T21_27_16: Age Group Analysis
-- 2023-06-13T21_29_25: Key Insights
+-  General View
+-  Sales Mode Analysis
+-  Age Group Analysis
+-  Key Insights
 
 ### Key Insights:
 - **Total Customers:** 26,841
