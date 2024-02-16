@@ -9,9 +9,9 @@ Shield Insurance Company aims to conduct a comprehensive analysis of customer gr
 
 ### Data Model:
 -  General View
+  <img src="https://res.cloudinary.com/dymx9fvj9/image/upload/v1708070132/General_View_qp1ou9.png">
 -  Sales Mode Analysis
 -  Age Group Analysis
--  Key Insights
 
 ### Key Insights:
 - **Total Customers:** 26,841
